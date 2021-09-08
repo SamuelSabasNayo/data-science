@@ -1,3 +1,1 @@
-# data-science
-
-This branch is about covid cases evaluation.
+This is an interactive mapping using Google Earth Engine.
